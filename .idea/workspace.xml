@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
-    <list default="true" id="480829b8-f7ef-4950-abf6-28082b7e2fe0" name="Default" comment="" />
-
+    <list default="true" id="480829b8-f7ef-4950-abf6-28082b7e2fe0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templated-squareaway/images/totten.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templated-squareaway/Highlights.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templated-squareaway/Highlights.html" afterPath="$PROJECT_DIR$/templated-squareaway/Highlights.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,74 +22,29 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="0">
+            <state relative-caret-position="2277">
               <caret line="99" column="6" lean-forward="false" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
-
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templated-squareaway/fonts.css">
+      <file leaf-file-name="Highlights.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.html">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="40">
-              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-
+            <state relative-caret-position="250">
+              <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Team.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
+      <file leaf-file-name="Highlights.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.css">
           <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="260">
-              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-
+            <state relative-caret-position="438">
+              <caret line="517" column="0" lean-forward="true" selection-start-line="517" selection-start-column="0" selection-end-line="517" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-
-      <file leaf-file-name="Team.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="191" column="43" lean-forward="false" selection-start-line="191" selection-start-column="43" selection-end-line="191" selection-end-column="43" />
-
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-          <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="2500">
-              <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Uniform.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.css">
-          <provider selected="true" editor-type-id="text-editor">
-
-            <state relative-caret-position="5040">
-              <caret line="252" column="30" lean-forward="false" selection-start-line="252" selection-start-column="30" selection-end-line="252" selection-end-column="30" />
-              <folding>
-                <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-                <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-              </folding>
-
             </state>
           </provider>
         </entry>
@@ -106,10 +64,13 @@
       <find>icon</find>
       <find>icon icon-spinner</find>
       <find>logo</find>
-
       <find>page-w</find>
       <find>banner</find>
-
+      <find>uniform.css</find>
+      <find>box1</find>
+      <find>featured</find>
+      <find>container</find>
+      <find>box</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,14 +80,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Team.html" />
-
         <option value="$PROJECT_DIR$/templated-squareaway/Uniform.html" />
-        <option value="$PROJECT_DIR$/templated-squareaway/Highlights.html" />
         <option value="$PROJECT_DIR$/templated-squareaway/default.css" />
         <option value="$PROJECT_DIR$/templated-squareaway/index.html" />
         <option value="$PROJECT_DIR$/templated-squareaway/Team.css" />
         <option value="$PROJECT_DIR$/templated-squareaway/Team.html" />
-
+        <option value="$PROJECT_DIR$/templated-squareaway/Highlights.css" />
+        <option value="$PROJECT_DIR$/templated-squareaway/Highlights.html" />
       </list>
     </option>
   </component>
@@ -136,10 +96,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="-16" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -159,10 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-
-      <pane id="Scratches" />
-      <pane id="Scope" />
-
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,11 +132,18 @@
               <item name="Sport-Web" type="462c0819:PsiDirectoryNode" />
               <item name="templated-squareaway" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sport-Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sport-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="templated-squareaway" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,14 +151,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../KakaoTalkClone/Chatlist.html" />
-
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\WebstormProjects\Sport-Web\templated-squareaway\images" />
       <recent name="C:\Users\user\Desktop\Sport-Web\templated-squareaway\images" />
+      <recent name="C:\Users\user\WebstormProjects\Sport-Web\templated-squareaway\images" />
       <recent name="C:\Users\user\WebstormProjects\Sport-Web\templated-squareaway" />
       <recent name="C:\Users\user\WebstormProjects\Sport-Web" />
     </key>
@@ -225,33 +187,33 @@
       <workItem from="1511525640896" duration="143000" />
       <workItem from="1511526068983" duration="3133000" />
       <workItem from="1511532042991" duration="29000" />
-
       <workItem from="1511532492693" duration="87000" />
       <workItem from="1511655286844" duration="12135000" />
       <workItem from="1511700198867" duration="491000" />
-
+      <workItem from="1511704612615" duration="986000" />
+      <workItem from="1511705772678" duration="1796000" />
+      <workItem from="1511707592305" duration="1641000" />
+      <workItem from="1511753478134" duration="473000" />
+      <workItem from="1511773703334" duration="613000" />
+      <workItem from="1511774464020" duration="1693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-
-    <option name="totallyTimeSpent" value="17218000" />
-
+    <option name="totallyTimeSpent" value="24420000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1044" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19311064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.052604165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -272,256 +234,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4940">
-          <caret line="247" column="11" lean-forward="false" selection-start-line="247" selection-start-column="11" selection-end-line="247" selection-end-column="11" />
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4940">
-          <caret line="247" column="11" lean-forward="false" selection-start-line="247" selection-start-column="11" selection-end-line="247" selection-end-column="11" />
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4940">
-          <caret line="247" column="11" lean-forward="false" selection-start-line="247" selection-start-column="11" selection-end-line="247" selection-end-column="11" />
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4940">
-          <caret line="247" column="11" lean-forward="false" selection-start-line="247" selection-start-column="11" selection-end-line="247" selection-end-column="11" />
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4940">
-          <caret line="247" column="11" lean-forward="true" selection-start-line="247" selection-start-column="11" selection-end-line="247" selection-end-column="11" />
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4940">
-          <caret line="247" column="11" lean-forward="false" selection-start-line="247" selection-start-column="11" selection-end-line="247" selection-end-column="11" />
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templated-squareaway/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="966">
@@ -765,12 +477,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6647">
           <caret line="289" column="5" lean-forward="true" selection-start-line="289" selection-start-column="5" selection-end-line="289" selection-end-column="5" />
-
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-
+          <folding />
         </state>
       </provider>
     </entry>
@@ -826,12 +533,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4940">
           <caret line="247" column="11" lean-forward="true" selection-start-line="247" selection-start-column="11" selection-end-line="247" selection-end-column="11" />
-
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-
+          <folding />
         </state>
       </provider>
     </entry>
@@ -843,80 +545,83 @@
         </state>
       </provider>
     </entry>
-
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.html">
+    <entry file="file://$PROJECT_DIR$/../KakaoTalkClone/Chatlist.html" />
+    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-
+        <state relative-caret-position="2875">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templated-squareaway/index.html">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="0">
+        <state relative-caret-position="2277">
           <caret line="99" column="6" lean-forward="false" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
-
           <folding />
         </state>
       </provider>
     </entry>
-
+    <entry file="file://$PROJECT_DIR$/templated-squareaway/license.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13087">
+          <caret line="569" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="571" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templated-squareaway/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
+        <state relative-caret-position="46">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8464">
+          <caret line="368" column="1" lean-forward="true" selection-start-line="368" selection-start-column="1" selection-end-line="368" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3519">
+          <caret line="153" column="6" lean-forward="false" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templated-squareaway/Uniform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="517" column="0" lean-forward="true" selection-start-line="517" selection-start-column="0" selection-end-line="517" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templated-squareaway/Highlights.html">
       <provider selected="true" editor-type-id="text-editor">
-
-        <state relative-caret-position="2500">
-          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-
-          <folding />
-        </state>
-      </provider>
-    </entry>
-
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5040">
-          <caret line="252" column="30" lean-forward="false" selection-start-line="252" selection-start-column="30" selection-end-line="252" selection-end-column="30" />
-          <folding>
-            <marker date="1511532419804" expanded="true" signature="3879:3881" ph="{...}" />
-            <marker date="1511532419804" expanded="true" signature="5275:5279" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1462">
-          <caret line="273" column="9" lean-forward="false" selection-start-line="273" selection-start-column="3" selection-end-line="273" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../KakaoTalkClone/Chatlist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="110" column="14" lean-forward="true" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="14" />
-
-          <folding />
-        </state>
-      </provider>
-    </entry>
-
-    <entry file="file://$PROJECT_DIR$/templated-squareaway/Team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="191" column="43" lean-forward="false" selection-start-line="191" selection-start-column="43" selection-end-line="191" selection-end-column="43" />
-
+        <state relative-caret-position="250">
+          <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
           <folding />
         </state>
       </provider>
